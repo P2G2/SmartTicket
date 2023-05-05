@@ -25,7 +25,7 @@ The Blockchain Ticketing App is a decentralized application (dApp) that allows u
 cd blockchain-ticketing-app
 ```python
 npm install
-
+```
 
 3. Install the required Python packages:
 ```python
